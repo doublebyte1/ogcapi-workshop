@@ -4,60 +4,117 @@
         <loc>https://ogcapi-workshop.ogc.org/</loc>
       </url>
       <url>
-        <loc>https://ogcapi-workshop.ogc.org/background-and-context/</loc>
-      </url>
-      <url>
-        <loc>https://ogcapi-workshop.ogc.org/overview-and-main-concepts/</loc>
-      </url>
-      <url>
-        <loc>https://ogcapi-workshop.ogc.org/compliance-and-certification/</loc>
-      </url>
-      <url>
-        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/primer/</loc>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/common.pt/</loc>
       </url>
       <url>
         <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/common/</loc>
       </url>
       <url>
-        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/features/</loc>
-      </url>
-      <url>
-        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/tiles/</loc>
-      </url>
-      <url>
-        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/maps/</loc>
-      </url>
-      <url>
-        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/styles/</loc>
-      </url>
-      <url>
-        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/processes/</loc>
-      </url>
-      <url>
-        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/records/</loc>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/environmental-data-retrieval.pt/</loc>
       </url>
       <url>
         <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/environmental-data-retrieval/</loc>
       </url>
       <url>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/features.pt/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/features/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/maps.pt/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/maps/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/primer.pt/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/primer/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/processes.pt/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/processes/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/records.pt/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/records/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/sensorthings.pt/</loc>
+      </url>
+      <url>
         <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/sensorthings/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/styles.pt/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/styles/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/tiles.pt/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/api-deep-dive/tiles/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/background-and-context.pt/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/background-and-context/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/compliance-and-certification.pt/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/compliance-and-certification/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/conclusion.pt/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/conclusion/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/getting-involved.pt/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/getting-involved/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/overview-and-main-concepts.pt/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/overview-and-main-concepts/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/pt/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/roadmap.pt/</loc>
       </url>
       <url>
         <loc>https://ogcapi-workshop.ogc.org/roadmap/</loc>
       </url>
       <url>
+        <loc>https://ogcapi-workshop.ogc.org/security.pt/</loc>
+      </url>
+      <url>
         <loc>https://ogcapi-workshop.ogc.org/security/</loc>
+      </url>
+      <url>
+        <loc>https://ogcapi-workshop.ogc.org/transition-and-migration.pt/</loc>
       </url>
       <url>
         <loc>https://ogcapi-workshop.ogc.org/transition-and-migration/</loc>
       </url>
       <url>
         <loc>https://ogcapi-workshop.ogc.org/use-cases/</loc>
-      </url>
-      <url>
-        <loc>https://ogcapi-workshop.ogc.org/getting-involved/</loc>
-      </url>
-      <url>
-        <loc>https://ogcapi-workshop.ogc.org/conclusion/</loc>
       </url>
 </urlset>
